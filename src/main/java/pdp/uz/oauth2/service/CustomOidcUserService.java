@@ -1,4 +1,4 @@
-package pdp.uz.oauth2.config;
+package pdp.uz.oauth2.service;
 
 import org.springframework.security.oauth2.client.oidc.userinfo.OidcUserService;
 import org.springframework.security.oauth2.core.oidc.user.OidcUser;
